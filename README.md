@@ -1,4 +1,4 @@
-##IMPORTANT
+## IMPORTANT
 
 Run `npm install` after cloning the project.(in order to generate node_modules).
 
